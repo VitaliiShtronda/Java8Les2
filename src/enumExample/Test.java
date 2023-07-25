@@ -19,6 +19,6 @@ public class Test {
         System.out.println("DayOfWeekEnum.MONDAY == DayOfWeekEnum.FRIDAY = " + (DayOfWeekEnum.FRIDAY == DayOfWeekEnum.FRIDAY));
         System.out.println("DayOfWeekEnum.MONDAY == DayOfWeekEnum.MONDAY = " + (DayOfWeekEnum.MONDAY == DayOfWeekEnum.MONDAY));
 
-        
+
     }
 }
